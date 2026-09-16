@@ -1,5 +1,4 @@
 //Patel Vishwas
-//24070123072
 //A3
 #include <iostream>
 using namespace std;
